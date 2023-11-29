@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+modules
+Training
+recognizer_borndigital.h5
+TPS-ResNet-BiLSTM-Attn.pth
+.DS_Store
